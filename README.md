@@ -32,8 +32,15 @@ To calculate in Lotto and Dunham (2015)’s formulation, specify `mode = 'LD'`.
 In `Makefile`, comment out the part of Lagrangian formulation and uncomment the part of Eulerian formulation.
 
 
+## References 
+Will come soon.
+
+
 ## Note
 
 Outputs are unformatted stream files.
 To read them, you can use, for example, `numpy.fromfile`.
 
+
+
+Finally: please forgive my poor English and poor implementation...
